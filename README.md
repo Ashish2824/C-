@@ -2,6 +2,7 @@
 
 This repository contains CPP prorgamming concepts. The codes will help in understanding the concepts in fluent way.
 
+________________________________________________
 CONTENT - 
 
 1)  Data type
@@ -23,9 +24,7 @@ CONTENT -
 9)  Advanced Patterns
 
 10) Functions
- 
-  
-  
-   
-    
+
+_______________________________________________
+
 :)  Happy Learning
