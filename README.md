@@ -23,7 +23,9 @@ CONTENT -
 
 9)  Advanced Patterns
 
-10) Functions
+a)  Extra
+
+b) Functions
 
 _______________________________________________
 
