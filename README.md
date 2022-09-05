@@ -23,7 +23,7 @@ CONTENT -
 
 9)  Advanced Patterns
 
-a)  Extra
+a)  Extra (More Patterns Questions)
 
 b) Functions
 
