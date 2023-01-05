@@ -27,6 +27,11 @@ a)  Extra (More Patterns Questions)
 
 b) Functions
 
+c) Arrays
+
+d) Array Questions
+
+
 _______________________________________________
 
 :)  Happy Learning
